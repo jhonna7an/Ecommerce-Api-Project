@@ -1,0 +1,9 @@
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb

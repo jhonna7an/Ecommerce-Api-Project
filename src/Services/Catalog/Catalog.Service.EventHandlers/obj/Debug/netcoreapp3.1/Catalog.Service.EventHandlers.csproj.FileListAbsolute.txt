@@ -1,0 +1,16 @@
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.deps.json
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.dll
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.csproj.CopyComplete
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.dll
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\obj\Debug\netcoreapp3.1\Catalog.Service.EventHandlers.pdb
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Common.dll
+C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Service.EventHandlers\bin\Debug\netcoreapp3.1\Catalog.Common.pdb

@@ -21,20 +21,14 @@ namespace Catalog.Persistence.Database.Configuration
             var products = new List<Product>();
             var random = new Random();
 
-            for (int i = 0; i < 100; i++)
+            for (int i = 1; i < 100; i++)
             {
                 products.Add(new Product
                 {
                     ProductId = i,
                     Name = $"Product {i}",
                     Description = $"Description for product {i}",
-                    Price = random.Next(100, 1000),
-                    Stock = new ProductInStock
-                    {
-                        ProductInStockId = i,
-                        ProductId = i,
-                        Stock = random.Next(0, 100)
-                    }
+                    Price = random.Next(100, 1000)
                 });
             }
 
