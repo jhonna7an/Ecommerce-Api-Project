@@ -10,3 +10,15 @@ C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Servic
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csprojAssemblyReference.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb

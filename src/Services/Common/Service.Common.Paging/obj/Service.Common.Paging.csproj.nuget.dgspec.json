@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {}
+    "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+    "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectUniqueName": "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "projectName": "Service.Common.Collection",
-        "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
-        "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\obj\\",
+        "projectPath": "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "packagesPath": "C:\\Users\\jzevallos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jzevallos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,24 +58,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+    "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
+        "projectUniqueName": "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
         "projectName": "Service.Common.Paging",
-        "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
-        "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\obj\\",
+        "projectPath": "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
+        "packagesPath": "C:\\Users\\jzevallos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Paging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jzevallos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
               }
             }
           }
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BnGaZV09B6YlpwGdxrfNmNw9vxDsj/uNCM3qwKU3MDt/kir92ZS5LpPLydvNrxHyO2pOGLvvL+0+KbFzJrfwHA==",
+  "dgSpecHash": "8R9vcxddYgwAuymJT8nS9V1qJ52wp1RtE6CPmHJtFf58bOIpxwIAaZsnk8GYd8JOOTgjBf5m250dPHFpxr+JFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhonn\\OneDrive\\Escritorio\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj",
+  "projectFilePath": "C:\\Users\\jzevallos\\Desktop\\Repositorios\\Ecommerce-Api-Project\\src\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

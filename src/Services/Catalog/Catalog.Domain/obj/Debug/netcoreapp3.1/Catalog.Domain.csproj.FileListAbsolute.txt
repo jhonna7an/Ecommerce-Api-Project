@@ -7,3 +7,12 @@ C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Servic
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.CoreCompileInputs.cache
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.dll
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.deps.json
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csprojAssemblyReference.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfo.cs
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.pdb

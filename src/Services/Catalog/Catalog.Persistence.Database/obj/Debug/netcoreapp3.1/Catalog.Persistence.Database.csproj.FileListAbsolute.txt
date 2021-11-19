@@ -10,3 +10,15 @@ C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Servic
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CopyComplete
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
 C:\Users\jhonn\OneDrive\Escritorio\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.deps.json
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csprojAssemblyReference.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.AssemblyInfo.cs
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.csproj.CopyComplete
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.dll
+C:\Users\jzevallos\Desktop\Repositorios\Ecommerce-Api-Project\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\netcoreapp3.1\Catalog.Persistence.Database.pdb
